@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Attendance data
+Attendance.csv
+
+# Face images / personal data
+images/
+
+# Python wheel files
+*.whl
